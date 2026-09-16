@@ -3,7 +3,7 @@
 
 # Boosters
 
-A Fabric performance mod for Minecraft 26.2. A NeoForge port with the same feature set lives in [`neoforge/`](neoforge/).
+A Fabric performance mod for Minecraft 26.3. A NeoForge port with the same feature set lives in [`neoforge/`](neoforge/).
 
 Features:
 
