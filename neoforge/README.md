@@ -1,6 +1,6 @@
 # Boosters (NeoForge)
 
-A NeoForge port of [Boosters](https://www.curseforge.com/minecraft/mc-mods/boosters/), a performance mod for Minecraft 26.2. Same feature set as the Fabric build:
+A NeoForge port of [Boosters](https://www.curseforge.com/minecraft/mc-mods/boosters/), a performance mod for Minecraft 26.3. Same feature set as the Fabric build:
 
 - one-click presets: **Quality / Balanced / Performance / Extreme** (plus Custom once you tweak anything) - pick how aggressive it is without touching individual sliders
 - throttles AI for distant mobs beyond what vanilla already does (configurable distance/intervals) - benefit scales with mob density, biggest with farms/villages/mob clusters, marginal for a lone player with few mobs around
